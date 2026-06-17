@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Coding Languages 
+- 🌱 I'm currently making projects that relates to problem solving.
 - 🤔 I’m looking for help with entry level jobs.
 - 📫 How to reach me: prateek9140@gmail.com
 - ⚡ Fun fact: Explorer
